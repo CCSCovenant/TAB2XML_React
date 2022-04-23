@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import OpenSheetMusicDisplay from "./lib/OpenSheetMusicDisplay";
 
 function App() {
   return (
